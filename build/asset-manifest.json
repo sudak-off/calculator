@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sudak-off/calculator/static/css/main.192f463f.css",
+    "main.js": "/sudak-off/calculator/static/js/main.d7132bb8.js",
+    "index.html": "/sudak-off/calculator/index.html",
+    "main.192f463f.css.map": "/sudak-off/calculator/static/css/main.192f463f.css.map",
+    "main.d7132bb8.js.map": "/sudak-off/calculator/static/js/main.d7132bb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.192f463f.css",
+    "static/js/main.d7132bb8.js"
+  ]
+}
